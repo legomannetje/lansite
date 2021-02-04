@@ -12,7 +12,7 @@ Config.url = 'http://localhost';
 Config.port = 3000;
 
 //Offline Mode: For LANs that have no Internet
-Config.offlineMode = false;
+Config.offlineMode = true;
 
 //Steam API Key: Grab one for yourself here: http://steamcommunity.com/dev/apikey
 Config.steamAPIKey = 'YOUR API KEY HERE';
